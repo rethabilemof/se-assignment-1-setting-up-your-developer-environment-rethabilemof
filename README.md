@@ -50,4 +50,4 @@
 ## Additional Tools
 - **MySQL Workbench:** Installed via: https://dev.mysql.com/downloads/workbench/
 ## Chalanges faced during the setup and strategies employed to overcome them:
-   **Configuration Errors:** Incorrect setttings or configurations can prevent your applications from running propeerly. So to avoid that you need to double-check configuration files and environment variables for accurancy. Use version control to track chnages and revert if nrcessary.
+   **Configuration Errors:** Incorrect setttings or configurations can prevent your applications from running properly. So to avoid that you need to double-check configuration files and environment variables for accurancy. Use version control to track chnages and revert if necessary.
